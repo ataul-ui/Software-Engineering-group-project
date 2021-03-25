@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodBlockerpro</string>
+
+    <string-array name="food">
+
+        <item>water</item>
+        <item>vegetables</item>
+        <item>snake</item>
+        <item>tiger</item>
+
+
+
+    </string-array>
+</resources>
